@@ -1,5 +1,6 @@
 import { ledgerIndexToFolders } from 'xpopgen/lib/ledgerIndexToFolders.mjs'
 import { xpop as xpopGen } from 'xpopgen/lib/xpop/v1.mjs'
+import fetch from 'node-fetch'
 import assert from 'assert'
 
 let verbose = false
