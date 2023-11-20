@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Xahau/JS-xPOP-Retrieve-Generate/#readme",
   "license": "MIT",
   "dependencies": {
+    "fetch": "^1.1.0",
     "xpopgen": "^1.0.0"
   },
   "devDependencies": {
